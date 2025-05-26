@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 |Irashad Ansari |Student |Electronic Engineering |Rec kannauj |irsadansri619@gmail.com
+2 |Rajneesh yadav |Student |Electronic Engineering|Rec kannauj  |rajneeshyadav1718@gmail.com
